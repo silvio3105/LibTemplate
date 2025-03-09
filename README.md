@@ -25,7 +25,7 @@ This repo contains a template I use for library projects. Template includes:
     - {Project_name}.hpp: Driver/library header file.
 
 
-# LICENSE
+# License
 
 Copyright (c) 2025, silvio3105 (www.github.com/silvio3105)
 
